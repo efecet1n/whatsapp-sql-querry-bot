@@ -27,10 +27,10 @@ A WhatsApp bot that converts user questions into SQL queries using Gemini AI, ex
 
 Example of the bot's response to a query:
 
-![Example1](example_screenshots/Ekran görüntüsü 2025-07-30 163104.png)
+![Example1](example_screenshots/example1.png)
 
 
-![Example2](example_screenshots/Ekran görüntüsü 2025-07-30 163440.png)
+![Example2](example_screenshots/example2.png)
 
 
-![Example3](example_screenshots/Ekran görüntüsü 2025-07-30 163656.png)
+![Example3](example_screenshots/example3.png)
