@@ -1,7 +1,3 @@
-görüntüsünü oluşturacağım. README.md dosyasına "WhatsApp SQL Query Bot" başlığı altında, özellikler ve kullanılan teknolojiler bölümlerinden sonra "Ekran Görüntüleri" başlığı ekleyeceğim. Bu başlığın altına, belirtilen dosya yollarındaki ekran görüntülerini açıklayıcı alt yazılarla birlikte ekleyeceğim. Dosya yollarının doğru olduğundan emin olacağım ve görüntülerin README.md dosyasında düzgün bir şekilde görünmesini sağlayacağım.
-\--\>
-
-```markdown
 # WhatsApp SQL Query Bot
 
 A WhatsApp bot that converts user questions into SQL queries using Gemini AI, executes them on a SQL Server database, and sends the results back via WhatsApp.
@@ -27,7 +23,9 @@ A WhatsApp bot that converts user questions into SQL queries using Gemini AI, ex
 
 ---
 
-## **Example Screenshots**
+## **Screenshots**
+
+Example of the bot's response to a query:
 
 ![Example1](example_screenshots/Ekran görüntüsü 2025-07-30 163104.png)
 
@@ -36,4 +34,3 @@ A WhatsApp bot that converts user questions into SQL queries using Gemini AI, ex
 
 
 ![Example3](example_screenshots/Ekran görüntüsü 2025-07-30 163656.png)
-```
